@@ -1,0 +1,9 @@
+<Config>
+    <ClientX>360</ClientX>
+    <ClientY>640</ClientY>
+    <BsaeX>1080</BsaeX>
+    <BaseY>1920</BaseY>
+    <Rate>1.55</Rate>
+    <Delay>300</Delay>
+    <AutoReload>false</AutoReload>
+</Config>
